@@ -55,7 +55,7 @@ Elegí un solo lugar fijo en el celular: Google Keep, una nota "English reports"
 ### Frases útiles durante la sesión
 
 | Decís | Pasa |
-|---|---|
+| --- | --- |
 | `Let's do an interview` | Simulacro de entrevista |
 | `Let's work on a STAR story about <tema>` | Arma o pule una historia |
 | `Give me a chunk` | Te da una frase para salir del paso |
@@ -97,7 +97,7 @@ Si estás en la PC, podés hacer la sesión ahí:
 ## 5. Dónde ver tu progreso
 
 | Querés ver | Archivo |
-|---|---|
+| --- | --- |
 | Nivel CEFR, fortalezas y debilidades | [progreso/perfil.md](progreso/perfil.md) |
 | Puntaje y actividad de cada sesión | [progreso/historial.md](progreso/historial.md) |
 | Errores recurrentes | [progreso/errores.md](progreso/errores.md) |
